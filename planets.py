@@ -6,6 +6,5 @@ def weight_on_planets():
 
    print('\nOn Mars you would weigh', mars, 'pounds.\nOn Jupiter you would weigh', jupiter, 'pounds.')
    
-   
 if __name__ == '__main__':
    weight_on_planets()
